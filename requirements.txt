@@ -81,3 +81,4 @@ Werkzeug==2.0.1
 wheel==0.36.2
 widgetsnbextension==3.5.1
 zipp==3.4.1
+setuptools==52.0.0.post20210125
